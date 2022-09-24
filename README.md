@@ -7,7 +7,7 @@ We will be assisting Tom with the Colorado election audit, using Python programm
 
 ## Election Audit Results
 
-### Let's look deeper into our script and data results presented in the image below.
+### Let's look deeper into our script and data results presented in the image below:
 
 ![This is an image](https://github.com/Zbahsoun/Election_Analysis/blob/main/Resources/Image%201.png)
 
@@ -29,7 +29,7 @@ We will be assisting Tom with the Colorado election audit, using Python programm
 
 ![This is an image](https://github.com/Zbahsoun/Election_Analysis/blob/main/Resources/Image%203.png)
 
-- The winning candidate, their vote count and percentage, and the winning county of the election:
+- The winning candidate, their votes count and percentage, and the winning county of the election:
 
    - Winner: Diana DeGette
    - Winning Vote Count: 272,892
@@ -39,4 +39,4 @@ We will be assisting Tom with the Colorado election audit, using Python programm
 
 ## Election Audit Summary
 
-The script created to audit this election's data is simple yet very efficient, we can also apply it to other elections data sets and just by changing the path of the file to load, we can calculate and display the same type of results. This script can also be used to manage a larger number of data, more diverse type of data, just by adding variables, loops and if statements. For example
+The script created to audit this election's data is simple yet very efficient, we can also apply it to other elections data sets and just by changing the path of the file to load, we can calculate and display the same type of results. This script can also be used to manage a larger number of data, get the lowest candidate votes count or lowest county votes count, it can also read more diverse type of data. For example, demographic information such as age, sex.

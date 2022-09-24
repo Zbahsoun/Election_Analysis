@@ -3,7 +3,7 @@
 
 ## Overview of the Project
 
-We will be assisting Tom with the Colorado election audit, using Python programming language to audit the election's data. Our job is to report the total number of votes cast, the total number of votes and percentage for each candidate, the number of votes and percentage for each county, the largest county turnout, the winning candidate, the vote count and its percentage. 
+We will be assisting Tom with the Colorado election audit, using Python programming language to audit the election's data. Our job is to report the total number of votes cast, the total number of votes and percentage for each candidate, the number of votes and percentage for each county, the largest county turnout, the winning candidate, their vote count and its percentage. 
 
 ## Election Audit Results
 
@@ -13,7 +13,7 @@ We will be assisting Tom with the Colorado election audit, using Python programm
 
 ### Using loops and conditional statements we were able to report the following:
 
-- There are 369,711 votes in total, divided on candidates as follow:
+- There are 369,711 votes in total, divided by candidate as follow:
 
     - Charles Casper Stockham: 23.0% (85,213)
     - Diana DeGette: 73.8% (272,892)
@@ -21,7 +21,7 @@ We will be assisting Tom with the Colorado election audit, using Python programm
 
 ![This is an image](https://github.com/Zbahsoun/Election_Analysis/blob/main/Resources/Image%202.png)
 
-- The votes are divided by county as follow:
+- The votes and the percentage are divided by county as follow:
 
    - Jefferson: 10.5% (38,855)
    - Denver: 82.8% (306,055)
@@ -29,7 +29,7 @@ We will be assisting Tom with the Colorado election audit, using Python programm
 
 ![This is an image](https://github.com/Zbahsoun/Election_Analysis/blob/main/Resources/Image%203.png)
 
-- The winning candidate, their votes count and percentage, and the winning county of the election:
+- The winning candidate, their total votes count and percentage, and the winning county of the election:
 
    - Winner: Diana DeGette
    - Winning Vote Count: 272,892
